@@ -1,0 +1,13 @@
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\bin\Debug\opris.exe.config
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\bin\Debug\opris.exe
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\bin\Debug\opris.pdb
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.csprojResolveAssemblyReference.cache
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.Properties.Resources.resources
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.csproj.GenerateResource.Cache
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.exe
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.pdb
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.Autorization.resources
+c:\users\lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.NewHospital.resources
+C:\Users\Lera\Documents\Visual Studio 2013\Projects\opris\opris\obj\Debug\opris.Hospital.resources
+C:\Users\Lera\documents\visual studio 2013\Projects\opris\opris\obj\Debug\opris.NewDoctor.resources
+C:\Users\Lera\Documents\Visual Studio 2013\Projects\opris\opris\obj\Debug\opris.NewSpecialization.resources
